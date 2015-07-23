@@ -1,0 +1,4 @@
+There is a small company that a few students started, after making a bare-bones implementation at a hackathon. It's focused on sharing boats, which are very expensive and used infrequently, even during the season.1
+
+
+1. In New England, sailing is viable throughout the year, but in only a few months is it popular recreationally. 
